@@ -1,0 +1,6 @@
+[submodule "lib/vendor/submodules/php-mode"]
+	path = lib/vendor/submodules/php-mode
+	url = git://github.com/ejmr/php-mode.git
+[submodule "lib/vendor/submodules/drupal-mode"]
+	path = lib/vendor/submodules/drupal-mode
+	url = git://github.com/arnested/drupal-mode.git
